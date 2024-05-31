@@ -15,4 +15,4 @@ app.use('/api/',personas);
 app.use('/api/',pagos); 
 app.use('/api/', usuarios); 
 
-app.listen(PORT); 
+app.listen(6000); 
